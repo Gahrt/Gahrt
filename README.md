@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nils</h1>
-- 🔭 I’m currently working on building up a theater club!
-- 💬 Ask me about ...
-- 📫 How to reach me: Twitter @byGahrt | Instagram @byGahrt 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Thanks JK it's harder to be a Harry Potter fan than you think
+🔭 I’m currently working on building up a theater club!
+💬 Ask me about ...
+📫 How to reach me: Twitter @byGahrt | Instagram @byGahrt 
+😄 Pronouns: he/him
+⚡ Fun fact: Thanks JK it's harder to be a Harry Potter fan than you think
 
 
 <!--

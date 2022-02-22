@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Nils</h1>
+- 🔭 I’m currently working on building up a theater club!
+- 💬 Ask me about ...
+- 📫 How to reach me: Twitter @byGahrt | Instagram @byGahrt 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Thanks JK it's harder to be a Harry Potter fan than you think
+
 
 <!--
 **Gahrt/Gahrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

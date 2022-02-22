@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nils</h1>
-🔭 I’m currently working on building up a theater club!
-💬 Ask me about ...
-📫 How to reach me: Twitter @byGahrt | Instagram @byGahrt 
-😄 Pronouns: he/him
-⚡ Fun fact: Thanks JK it's harder to be a Harry Potter fan than you think
+🔭 I'm in the process of building a theater club and making it as digital as possible - https://rdsev.org! <br>
+🔭 Maybe I am building a store for pictures and work as a solution architect in Dresden<br>
+💬 Ask me about: Why Scrum is overrated in my opinion?
+📫 How to reach me: Twitter @byGahrt | Instagram @byGahrt <br>
+😄 Pronouns: he/him <br>
+⚡ Fun fact: Thanks JK it's harder to be a Harry Potter fan than you think<br>
 
 
 <!--
